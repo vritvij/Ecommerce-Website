@@ -1,5 +1,6 @@
 # Ecommerce Website
 A functional e-commerce website with an admin panel and CRM created in Laravel 5.
+This project was created as part of my course curriculum
 
 ## Features
 * 2-Factor Authentication
@@ -15,5 +16,3 @@ A functional e-commerce website with an admin panel and CRM created in Laravel 5
 * Run command "php artisan migrate"
 * Run command "php artisan serve"
 * Visit "localhost:8000" in your browser
-
-- This project was created as part of my school curriculum -
