@@ -1,6 +1,5 @@
 # Ecommerce Website
-A functional e-commerce website with an admin panel and CRM created in Laravel 5.
-This project was created as part of my course curriculum
+A functional e-commerce website with an admin panel and CRM created in Laravel 5. This project was created as part of my course curriculum.
 
 ## Features
 * 2-Factor Authentication
