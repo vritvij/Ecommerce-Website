@@ -1,5 +1,5 @@
 # Ecommerce Website
-A functional e-commerce website with an admin panel with CRM created in Laravel 5.
+A functional e-commerce website with an admin panel and CRM created in Laravel 5.
 
 ## Features
 * 2-Factor Authentication
